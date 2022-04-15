@@ -12,4 +12,4 @@ Netflix is one of the most popular media and video streaming platforms. They hav
 - Built a Story Telling  through the data using Tableau Public with a wide range of graphs and visuals.
 - Drawn many interesting inferences including the trend shift to TV Shows during the pandemic,  most popular category being International Movies and most target audience being ‘Matured Audience
 
-## [Tableau Vizualizations - EDA Dashboard] (https://public.tableau.com/app/profile/rajalakshmi.gnanasekaran/viz/NetflixDataAnalysisVisualization/NetflixDataAnalysisandVisualization)
+##  [Tableau Vizualizations -EDA Dashboard - Click Here](https://public.tableau.com/app/profile/rajalakshmi.gnanasekaran/viz/NetflixDataAnalysisVisualization/NetflixDataAnalysisandVisualization)
